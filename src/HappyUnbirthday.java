@@ -8,6 +8,7 @@ public static void main(String[] args) {
 	JOptionPane.showMessageDialog(null,"Oh yeah, what is 9 + 10.");
 	JOptionPane.showMessageDialog(null,"19."); 
 	JOptionPane.showMessageDialog(null,"That's wrong.");
-	
+	JOptionPane.showMessageDialog(null,"The answer is...21. Idiot");
+	JOptionPane.showMessageDialog(null,"Square up.");
 }
 }
