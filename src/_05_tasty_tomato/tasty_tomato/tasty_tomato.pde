@@ -9,7 +9,7 @@ void draw() {
     ellipse(212, 200, 150, 150);
    fill(#15AF51);
     rect(176, 103, 12, 32);
-
+when(MousePressed)
 
   
  }
