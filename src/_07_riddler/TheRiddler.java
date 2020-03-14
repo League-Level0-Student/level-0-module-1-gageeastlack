@@ -18,7 +18,8 @@ if(guess.equals="score")
 	JOptionPane.showMessageDialog(null, "Correct"){
 }
 		// 5. Otherwise, say "wrong" and tell them the answer
-else
+else{
+	JOptionPane.showMessageDialog(null,"Wrong. The answer was Nothing!");
 	
 		// 6. Add some more riddles
 
